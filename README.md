@@ -1,6 +1,6 @@
-###Data Analyst 김연식
+# Data Analyst 김연식
 
-##Core Competency
+## Core Competency
 
 - 데이터 전처리 / 가공
 - 데이터 시각화
