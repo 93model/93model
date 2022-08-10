@@ -26,3 +26,8 @@
 - Git : 협업을 위한 브랜치 생성, 머지, 풀 리퀘스트 진행 가능
 - 언어 : 기본적인 한국어와 영어 독해 능력을 가지고 있으며, 한국어로 책을 출간한적이 있음
 
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
