@@ -25,5 +25,9 @@
     - Join을 사용한 쿼리와 중첩 서브 쿼리를 구현할 수 있음
 - Git : 협업을 위한 브랜치 생성, 머지, 풀 리퀘스트 진행 가능
 - 언어 : 기본적인 한국어와 영어 독해 능력을 가지고 있으며, 한국어로 책을 출간한적이 있음
-
+- 
+<div align=center>
+    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F93model&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+</div>
