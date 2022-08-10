@@ -30,25 +30,19 @@
 ## Projects
 
 ### 비디오 게임 판매량 데이터 분석, EDA
-
 비디오 게임 판매량을 분석하여 다음에 개발할 게임 장르 분석 🔗[프로젝트 URL](https://github.com/93model/Game_sales_data)
 
-[ 담당 업무 ]  프로젝트 설계, 데이터 전처리  EDA
+### 개발자 중심 정신 질환 데이터 머신 러닝 분석
+OSMI에서 실시한 개발자 중심 정신 질환 조사를 분석 및 EDA 🔗[프로젝트 URL](https://github.com/93model/osim_mental_illness_survey_analysis)
 
----
+### Pokemon_Winner_Predictor
+포켓몬 X,Y를 기반으로한 승리 포켓몬 분석 🔗[프로젝트 URL](https://github.com/93model/Pokemon_Winner_Predictor)
 
-- 지역에 따라 선호하는 게임 장르에 대한 가설 검증
-- 연도별 게임의 트렌드 시각화
-- **출고량이 높은 게임에 대한 분석 및 시각화**
-- 데이터의 한계점 분석 : 판매 금액이 아니라 장 단위, DLC등 부가 수익 고려 X
-- 결론 : 가장 중요한 시장 : 북미 → 영어 탑재는 기본
-    - RPG 장르는 일본어 가 중요
-    - 가장 선호하는 장르는 Action, Shooter / 일본만  RPG
-    - PlayStaion이 근소 우위지만 멀티 플랫폼 출시가 바람직
+### 딥러닝 감성 분석 (Sentiment Analysis) 모델 및 데이터셋 생성
+파이썬을 사용한 딥러닝 감성 분석 (Sentiment Analysis) 모델 및 데이터셋 생성
 
-
-
-
+### Where is MY Hamburger
+공공데이터을 활용하여 내 동네에 햄버거 프랜차이즈가 없는 이유 분석
 
 <div align=center>
     
