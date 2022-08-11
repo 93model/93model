@@ -30,7 +30,7 @@
 ## Projects
 
 ### Where is MY Hamburger
-공공데이터을 활용하여 내 동네에 햄버거 프랜차이즈가 없는 이유 분석
+공공데이터을 활용하여 내 동네에 햄버거 프랜차이즈가 없는 이유 분석  🔗[프로젝트 URL](https://github.com/93model/Where_is_my_hamburger)
 
 ### 개발자 중심 정신 질환 데이터 머신 러닝 분석
 OSMI에서 실시한 개발자 중심 정신 질환 조사를 분석 및 EDA 🔗[프로젝트 URL](https://github.com/93model/osim_mental_illness_survey_analysis)
