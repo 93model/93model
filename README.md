@@ -29,21 +29,14 @@
 
 ## Projects
 
-### 비디오 게임 판매량 데이터 분석, EDA
-비디오 게임 판매량을 분석하여 다음에 개발할 게임 장르 분석 🔗[프로젝트 URL](https://github.com/93model/Game_sales_data)
+### Where is MY Hamburger
+공공데이터을 활용하여 내 동네에 햄버거 프랜차이즈가 없는 이유 분석
 
 ### 개발자 중심 정신 질환 데이터 머신 러닝 분석
 OSMI에서 실시한 개발자 중심 정신 질환 조사를 분석 및 EDA 🔗[프로젝트 URL](https://github.com/93model/osim_mental_illness_survey_analysis)
 
-### Pokemon_Winner_Predictor
-포켓몬 X,Y를 기반으로한 승리 포켓몬 분석 🔗[프로젝트 URL](https://github.com/93model/Pokemon_Winner_Predictor)
-
-### 딥러닝 감성 분석 (Sentiment Analysis) 모델 및 데이터셋 생성
-파이썬을 사용한 딥러닝 감성 분석 (Sentiment Analysis) 모델 및 데이터셋 생성
-
-### Where is MY Hamburger
-공공데이터을 활용하여 내 동네에 햄버거 프랜차이즈가 없는 이유 분석
-
+### 비디오 게임 판매량 데이터 분석, EDA
+비디오 게임 판매량을 분석하여 다음에 개발할 게임 장르 분석 🔗[프로젝트 URL](https://github.com/93model/Game_sales_data)
 <div align=center>
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F93model&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
